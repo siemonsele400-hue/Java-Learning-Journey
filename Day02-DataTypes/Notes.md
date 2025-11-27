@@ -55,6 +55,7 @@ public class TypeDemo {
  * || (短路或)：左边为true，右边不执行。
  * 三元运算符： 关系表达式 ? 结果1 : 结果2 (简化的if-else)。
 💻 代码示例：
+```java
 public class OperatorDemo {
     public static void main(String[] args) {
         // --- 1. 拆分数字 (视频09经典案例) ---
@@ -82,11 +83,12 @@ public class OperatorDemo {
         System.out.println("最大值是：" + max);
     }
 }
-
+```
 第四模块：人机交互 Scanner (视频 16)
 这是你写的程序第一次能“动”起来，不仅仅是输出死数据。
  * 步骤： 导包 (import) -> 创建对象 (new) -> 接收数据 (nextInt).
 💻 代码示例：
+```java
 // 1. 导包
 import java.util.Scanner;
 
@@ -102,7 +104,7 @@ public class ScannerDemo {
         System.out.println("你输入的数字是：" + number);
     }
 }
-
+```
 🚀 今天的练习建议
 题目：老虎体重比拼
 > 需求：使用 Scanner 录入两只老虎的体重（整数），使用三元运算符判断两只老虎的体重是否相同，如果不相同，输出较重的那只老虎的体重。
