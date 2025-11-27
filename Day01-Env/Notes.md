@@ -1,4 +1,4 @@
-这是 Day 1 的深度复盘总结：
+Day 1 的复盘总结：
 1. Java 的“铁三角”关系 (对应视频 02, 07, 08)
 这是面试中最喜欢问的基础题，必须分清三者的从属关系：
  * JVM (Java Virtual Machine): 核心。它是 Java 跨平台的关键（翻译官）。Windows 有 Windows 版的 JVM，Mac 有 Mac 版的 JVM，但它们都能跑同一份 .class 文件。
