@@ -18,6 +18,7 @@ Java是强类型语言，数据必须分类存放。
  * 自动类型转换 (小变大)： 代码不需要处理，自动完成。例如 double d = 10; (10变成了10.0)。
  * 强制类型转换 (大变小)： 可能会丢数据，需要手动写格式。
 💻 代码示例：
+```java
 public class TypeDemo {
     public static void main(String[] args) {
         // 1. 自动类型转换 (隐式)
@@ -38,7 +39,7 @@ public class TypeDemo {
         System.out.println(i); // 输出 88 (精度丢失)
     }
 }
-
+```
 第三模块：运算符大礼包 (视频 08-15) 🔥 核心难点
 这是今天内容最多、最需要练习的部分。
 1. 算术运算符与数值拆分
