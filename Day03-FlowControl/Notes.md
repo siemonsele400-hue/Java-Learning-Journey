@@ -45,7 +45,7 @@ public class IfDemo {
         }
     }
 }
-java
+```
 2. Switch 分支结构
 switch 适用于单值匹配，代码结构比一长串 if-else 更清晰。
 2.1 穿透性 (Case Fall-through)
