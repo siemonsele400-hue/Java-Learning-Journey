@@ -110,3 +110,23 @@ public class ScannerDemo {
 > 需求：使用 Scanner 录入两只老虎的体重（整数），使用三元运算符判断两只老虎的体重是否相同，如果不相同，输出较重的那只老虎的体重。
 > 
 这个练习会用到：Scanner、变量定义、关系运算符 ==、三元运算符 ? :。
+代码：  
+``java
+public class TigerWeight {
+    public static void main(String[] args) {
+        java.util.Scanner scanner = new java.util.Scanner(System.in);
+        System.out.print("请输入第一只老虎的体重（整数）：");
+        int w1 = scanner.nextInt();
+        System.out.print("请输入第二只老虎的体重（整数）：");
+        int w2 = scanner.nextInt();
+        scanner.close();
+
+        // 使用三元运算符判断是否相同；如果不相同，则在 else 分支中再次使用三元运算符输出较重的体重
+        String result = (w1 == w2)
+                ? "两只老虎的体重相同，均为：" + w1
+                : "较重的那只老虎的体重是：" + (w1 > w2 ? w1 : w2);
+
+        System.out.println(result);
+    }
+  ``
+}
