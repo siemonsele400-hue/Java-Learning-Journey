@@ -174,6 +174,7 @@ public class StudentDemo {
 * 成员变量使用过程
 
 ![1](images\1.png)
+<img width="888" height="352" alt="1" src="https://github.com/user-attachments/assets/fb803919-a2b3-4e77-8369-bddcf176fbdb" />
 
 * 成员方法调用过程
 
@@ -670,4 +671,5 @@ public class Test {
 }
 
 ```
+
 
