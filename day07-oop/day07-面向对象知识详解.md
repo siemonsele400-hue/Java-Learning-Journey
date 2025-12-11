@@ -173,22 +173,23 @@ public class StudentDemo {
 
 * 成员变量使用过程
 
-![1](images\1.png)
 <img width="888" height="352" alt="1" src="https://github.com/user-attachments/assets/fb803919-a2b3-4e77-8369-bddcf176fbdb" />
 
 * 成员方法调用过程
 
-![2](images\2.png)
+<img width="887" height="416" alt="2" src="https://github.com/user-attachments/assets/085726fd-3c96-425b-a58d-7e7d212b74fd" />
+
 
 ### 2.2 多个对象内存图
 
 * 成员变量使用过程
 
-![3](images\3.png)
+<img width="882" height="350" alt="3" src="https://github.com/user-attachments/assets/2555fae9-b488-4be1-975c-98d4b74cbacb" />
 
 * 成员方法调用过程
 
-![4](images\4.png)
+<img width="889" height="355" alt="4" src="https://github.com/user-attachments/assets/e0271f42-9fa7-45fe-acf8-2b4882224ffd" />
+
 
 * 总结：
 
@@ -671,5 +672,6 @@ public class Test {
 }
 
 ```
+
 
 
