@@ -15,7 +15,7 @@
     - 交互编程：Scanner 键盘录入。
 
 
-### [Day 03: 程序流程控制 (Flow Control)](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day03-flow-control-code)
+### [Day 03: 程序流程控制 (Flow Control)](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day03-flow-control-code/src/com/itheima)
 
   * **核心目标**：掌握程序的逻辑控制，能够让程序根据条件执行不同的代码块。
   * **关键知识点**：
