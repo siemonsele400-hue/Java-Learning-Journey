@@ -69,4 +69,4 @@ Day09 是从“写代码片段”到“写软件”的跨越。
 * 学会了在编写代码前先画**业务流程图**（比如：先判断是否登录 -> 再判断余额 -> 再执行取款）。
 * 这个项目虽然没有数据库，数据存在内存中（程序重启消失），但它模拟了真实的业务闭环，非常有成就感！
 
-代码：day09-atm-code/src/com/siemonsele/test
+代码：[day09-atm-code/src/com/siemonsele/test](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day09-atm-code/src/com/siemonsele/test)
