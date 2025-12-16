@@ -2,7 +2,7 @@
 
 ## 📂 目录 (Table of Contents)
 
-### [Day 01：Java 开发环境搭建与 Hello World(https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day01-helloword-code/src/com/itheima/hello)
+### [Day 01：Java 开发环境搭建与 Hello World](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day01-helloword-code/src/com/itheima/hello)
 - **核心目标**：完成 Java 开发环境搭建，理解程序运行机制。
 - **关键知识点**：JDK 安装、环境变量、命令行操作、HelloWorld、关键字与标识符。
 
