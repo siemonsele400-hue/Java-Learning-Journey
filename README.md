@@ -2,7 +2,7 @@
 
 ## 📂 目录 (Table of Contents)
 
-### [Day 01：Java 开发环境搭建与 Hello World](./Day01)
+### [Day 01：Java 开发环境搭建与 Hello World]([./Day01-Env](https://github.com/siemonsele400-hue/myjavaseproject/blob/master/day01-helloword-code/src/com/itheima/hello/HelloWorld.java))
 - **核心目标**：完成 Java 开发环境搭建，理解程序运行机制。
 - **关键知识点**：JDK 安装、环境变量、命令行操作、HelloWorld、关键字与标识符。
 
@@ -13,11 +13,6 @@
     - 类型处理：8种基本数据类型、自动/强制类型转换。
     - 逻辑运算：自增自减、逻辑与/或、三元运算符。
     - 交互编程：Scanner 键盘录入。
-太棒了！看到你已经把 README 的开头整理好了。根据你之前学习的进度（黑马程序员课程体系）以及我们这两周的交流，我为你整理了从 **Day 03 到 Day 09** 的内容。
-
-你可以直接复制下面的 Markdown 代码，接着你截图里的内容往下粘贴，就能补全你的学习路线图了。
-
------
 
 ### [Day 03: 程序流程控制 (Flow Control)](https://www.google.com/search?q=https://github.com/siemonsele400-hue/Java-Learning-Journey/tree/main/day03-flow-control)
 
