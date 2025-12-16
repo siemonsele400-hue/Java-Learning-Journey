@@ -2,11 +2,11 @@
 
 ## 📂 目录 (Table of Contents)
 
-### [Day 01：Java 开发环境搭建与 Hello World]([./Day01-Env](https://github.com/siemonsele400-hue/myjavaseproject/blob/master/day01-helloword-code/src/com/itheima/hello/HelloWorld.java))
+### [Day 01：Java 开发环境搭建与 Hello World(https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day01-helloword-code/src/com/itheima/hello)
 - **核心目标**：完成 Java 开发环境搭建，理解程序运行机制。
 - **关键知识点**：JDK 安装、环境变量、命令行操作、HelloWorld、关键字与标识符。
 
-### [Day 02：Java 基础语法：数据类型与运算符](./Day02)
+### [Day 02：Java 基础语法：数据类型与运算符](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day02-basic-code/src/com/itheima/basic)
 - **核心目标**：掌握数据在计算机中的处理方式及基础运算逻辑。
 - **关键知识点**：
     - 数据存储：二进制、八进制、十六进制。
@@ -24,7 +24,7 @@
       * **控制跳转**：`break`（跳出）、`continue`（跳过本次）、无限循环写法。
       * **随机数**：`Random` 类的使用场景（猜数字游戏）。
 
-### [Day 04: 数组 (Arrays)](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day04-array)
+### [Day 04: 数组 (Arrays)](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day04-array/src/com/siemonsele)
 
   * **核心目标**：掌握如何在内存中存储一组相同类型的数据，并理解引用类型的内存模型。
   * **关键知识点**：
@@ -33,7 +33,7 @@
       * **内存机制**：栈内存 (Stack) vs 堆内存 (Heap)，两个数组指向同一个空间的内存图解 。
       * **常见异常**：索引越界 `ArrayIndexOutOfBoundsException`、空指针 `NullPointerException`。
 
-### [Day 05: 方法 (Methods)](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day05-method-code)
+### [Day 05: 方法 (Methods)](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day05-method-code/src/com/semonsele)
 
   * **核心目标**：学习代码的模块化设计，提高代码的复用性。
   * **关键知识点**：
@@ -42,7 +42,7 @@
       * **方法重载 (Overload)**：同名不同参（参数个数、类型、顺序不同）。
       * **return 关键字**：返回结果与结束方法的双重作用。
 
-### [Day 06: 编程思维训练 (Programming Logic Case)](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day06-case-code)
+### [Day 06: 编程思维训练 (Programming Logic Case)](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day06-case-code/src/com/siemonsele)
 
   * **核心目标**：综合运用前五天的基础语法，解决实际算法逻辑问题。
   * **关键知识点**：
@@ -50,7 +50,7 @@
       * **数组翻转**：双指针思想。
       * **经典案例**：买飞机票价格计算、找质数、开发验证码、评委打分（去掉最高/最低分）、数组拷贝。
 
-### [Day 07: 面向对象基础 (Object-Oriented Programming - Basics)](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day07-oup-code)
+### [Day 07: 面向对象基础 (Object-Oriented Programming - Basics)](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day07-oop-code/src/com/siemonsele)
 
   * **核心目标**：从“面向过程”转向“面向对象”，理解类与对象的关系。
   * **关键知识点**：
@@ -60,7 +60,7 @@
       * **构造器 (Constructor)**：无参构造与全参构造的作用。
       * **JavaBean**：标准实体类的编写规范。
 
-### [Day 08: String 类与 ArrayList 集合](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day08-api-code)
+### [Day 08: String 类与 ArrayList 集合](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day08-api-code/src/com/siemonsele)
 
   * **核心目标**：掌握 Java 中最常用的字符串操作以及动态数组容器。
   * **关键知识点**：
@@ -69,7 +69,7 @@
       * **ArrayList**：集合的特点（大小可变）、泛型 `<E>` 的使用、增删改查 API。
       * **应用案例**：学生信息管理系统（基础版）。
 
-### [Day 09: 综合项目 - ATM 系统](https://www.google.com/search?q=https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day09%2520atm%2520code)
+### [Day 09: 综合项目 - ATM 系统](https://github.com/siemonsele400-hue/myjavaseproject/tree/master/day09-atm-code/src/com/siemonsele)
 
   * **核心目标**：独立完成一个具备完整业务逻辑的纯 Java 控制台项目。
   * **关键知识点**：
